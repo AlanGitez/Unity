@@ -1,0 +1,11 @@
+C:\Users\alane\source\repos\TiendaLowCost\TiendaLowCost\obj\Debug\netcoreapp2.1\TiendaLowCost.csprojAssemblyReference.cache
+C:\Users\alane\source\repos\TiendaLowCost\TiendaLowCost\obj\Debug\netcoreapp2.1\TiendaLowCost.csproj.CoreCompileInputs.cache
+C:\Users\alane\source\repos\TiendaLowCost\TiendaLowCost\obj\Debug\netcoreapp2.1\TiendaLowCost.AssemblyInfoInputs.cache
+C:\Users\alane\source\repos\TiendaLowCost\TiendaLowCost\obj\Debug\netcoreapp2.1\TiendaLowCost.AssemblyInfo.cs
+C:\Users\alane\source\repos\TiendaLowCost\TiendaLowCost\bin\Debug\netcoreapp2.1\TiendaLowCost.deps.json
+C:\Users\alane\source\repos\TiendaLowCost\TiendaLowCost\bin\Debug\netcoreapp2.1\TiendaLowCost.runtimeconfig.json
+C:\Users\alane\source\repos\TiendaLowCost\TiendaLowCost\bin\Debug\netcoreapp2.1\TiendaLowCost.runtimeconfig.dev.json
+C:\Users\alane\source\repos\TiendaLowCost\TiendaLowCost\bin\Debug\netcoreapp2.1\TiendaLowCost.dll
+C:\Users\alane\source\repos\TiendaLowCost\TiendaLowCost\bin\Debug\netcoreapp2.1\TiendaLowCost.pdb
+C:\Users\alane\source\repos\TiendaLowCost\TiendaLowCost\obj\Debug\netcoreapp2.1\TiendaLowCost.dll
+C:\Users\alane\source\repos\TiendaLowCost\TiendaLowCost\obj\Debug\netcoreapp2.1\TiendaLowCost.pdb

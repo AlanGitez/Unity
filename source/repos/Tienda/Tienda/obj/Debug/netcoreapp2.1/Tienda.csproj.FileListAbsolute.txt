@@ -1,0 +1,11 @@
+C:\Users\alane\source\repos\Tienda\Tienda\bin\Debug\netcoreapp2.1\Tienda.deps.json
+C:\Users\alane\source\repos\Tienda\Tienda\bin\Debug\netcoreapp2.1\Tienda.runtimeconfig.json
+C:\Users\alane\source\repos\Tienda\Tienda\bin\Debug\netcoreapp2.1\Tienda.runtimeconfig.dev.json
+C:\Users\alane\source\repos\Tienda\Tienda\bin\Debug\netcoreapp2.1\Tienda.dll
+C:\Users\alane\source\repos\Tienda\Tienda\bin\Debug\netcoreapp2.1\Tienda.pdb
+C:\Users\alane\source\repos\Tienda\Tienda\obj\Debug\netcoreapp2.1\Tienda.csprojAssemblyReference.cache
+C:\Users\alane\source\repos\Tienda\Tienda\obj\Debug\netcoreapp2.1\Tienda.csproj.CoreCompileInputs.cache
+C:\Users\alane\source\repos\Tienda\Tienda\obj\Debug\netcoreapp2.1\Tienda.AssemblyInfoInputs.cache
+C:\Users\alane\source\repos\Tienda\Tienda\obj\Debug\netcoreapp2.1\Tienda.AssemblyInfo.cs
+C:\Users\alane\source\repos\Tienda\Tienda\obj\Debug\netcoreapp2.1\Tienda.dll
+C:\Users\alane\source\repos\Tienda\Tienda\obj\Debug\netcoreapp2.1\Tienda.pdb

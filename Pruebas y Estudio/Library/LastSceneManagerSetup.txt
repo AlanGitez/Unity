@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Shooter Assets 06112021/Scenes/Factory&Pooling.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

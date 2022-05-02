@@ -1,0 +1,11 @@
+C:\Users\alane\source\repos\AppDatos\AppDatos\bin\Debug\netcoreapp2.1\AppDatos.deps.json
+C:\Users\alane\source\repos\AppDatos\AppDatos\bin\Debug\netcoreapp2.1\AppDatos.runtimeconfig.json
+C:\Users\alane\source\repos\AppDatos\AppDatos\bin\Debug\netcoreapp2.1\AppDatos.runtimeconfig.dev.json
+C:\Users\alane\source\repos\AppDatos\AppDatos\bin\Debug\netcoreapp2.1\AppDatos.dll
+C:\Users\alane\source\repos\AppDatos\AppDatos\bin\Debug\netcoreapp2.1\AppDatos.pdb
+C:\Users\alane\source\repos\AppDatos\AppDatos\obj\Debug\netcoreapp2.1\AppDatos.csprojAssemblyReference.cache
+C:\Users\alane\source\repos\AppDatos\AppDatos\obj\Debug\netcoreapp2.1\AppDatos.csproj.CoreCompileInputs.cache
+C:\Users\alane\source\repos\AppDatos\AppDatos\obj\Debug\netcoreapp2.1\AppDatos.AssemblyInfoInputs.cache
+C:\Users\alane\source\repos\AppDatos\AppDatos\obj\Debug\netcoreapp2.1\AppDatos.AssemblyInfo.cs
+C:\Users\alane\source\repos\AppDatos\AppDatos\obj\Debug\netcoreapp2.1\AppDatos.dll
+C:\Users\alane\source\repos\AppDatos\AppDatos\obj\Debug\netcoreapp2.1\AppDatos.pdb

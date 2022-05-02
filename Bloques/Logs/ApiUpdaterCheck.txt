@@ -1,0 +1,110 @@
+[api-updater (non-obsolete-error-filter)] 21/3/2021 2:32:10 p. m. : Starting C:/Users/alane/2020.3.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1045,3189ms
+moved types parse time: 105ms
+candidates parse time : 4ms
+C# parse time         : 340ms
+candidates check time : 52ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 21/3/2021 2:39:19 p. m. : Starting C:/Users/alane/2020.3.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 608,608ms
+moved types parse time: 116ms
+candidates parse time : 2ms
+C# parse time         : 465ms
+candidates check time : 77ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 21/3/2021 2:57:40 p. m. : Starting C:/Users/alane/2020.3.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 995,5403ms
+moved types parse time: 122ms
+candidates parse time : 4ms
+C# parse time         : 545ms
+candidates check time : 69ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 21/3/2021 3:27:52 p. m. : Starting C:/Users/alane/2020.3.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1043,0632ms
+moved types parse time: 117ms
+candidates parse time : 3ms
+C# parse time         : 3939ms
+candidates check time : 110ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 21/3/2021 3:28:20 p. m. : Starting C:/Users/alane/2020.3.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 466,377ms
+moved types parse time: 133ms
+candidates parse time : 3ms
+C# parse time         : 468ms
+candidates check time : 69ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 22/3/2021 5:30:22 p. m. : Starting C:/Users/alane/2020.3.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 12768,9432ms
+moved types parse time: 123ms
+candidates parse time : 2ms
+C# parse time         : 1004ms
+candidates check time : 63ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 22/3/2021 6:51:24 p. m. : Starting C:/Users/alane/2020.3.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1376,8586ms
+moved types parse time: 138ms
+candidates parse time : 2ms
+C# parse time         : 510ms
+candidates check time : 86ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 23/3/2021 6:01:54 p. m. : Starting C:/Users/alane/2020.3.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 7655,244ms
+moved types parse time: 105ms
+candidates parse time : 2ms
+C# parse time         : 727ms
+candidates check time : 56ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 24/3/2021 5:32:54 p. m. : Starting C:/Users/alane/2020.3.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 11396,108ms
+moved types parse time: 107ms
+candidates parse time : 5ms
+C# parse time         : 496ms
+candidates check time : 60ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 24/3/2021 5:35:54 p. m. : Starting C:/Users/alane/2020.3.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 638,0471ms
+moved types parse time: 116ms
+candidates parse time : 2ms
+C# parse time         : 412ms
+candidates check time : 62ms
+console write time    : 4ms
+
+[api-updater (non-obsolete-error-filter)] 24/3/2021 7:10:25 p. m. : Starting C:/Users/alane/2020.3.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 8065,9274ms
+moved types parse time: 119ms
+candidates parse time : 3ms
+C# parse time         : 410ms
+candidates check time : 65ms
+console write time    : 1ms
+

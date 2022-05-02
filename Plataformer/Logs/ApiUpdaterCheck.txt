@@ -1,0 +1,10 @@
+[api-updater (non-obsolete-error-filter)] 14/4/2021 7:28:48 p. m. : Starting C:/Users/alane/2020.3.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 16830,2178ms
+moved types parse time: 236ms
+candidates parse time : 56ms
+C# parse time         : 1897ms
+candidates check time : 138ms
+console write time    : 15ms
+
